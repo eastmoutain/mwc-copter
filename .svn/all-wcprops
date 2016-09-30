@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/202/trunk/baseflight
+END
+stm32_flash.ld
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/180/trunk/baseflight/stm32_flash.ld
+END
+JLinkSettings.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/105/trunk/baseflight/JLinkSettings.ini
+END
+baseflight.uvproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/198/trunk/baseflight/baseflight.uvproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/198/trunk/baseflight/Makefile
+END

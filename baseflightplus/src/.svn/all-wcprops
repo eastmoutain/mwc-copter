@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/179/trunk/baseflightplus/src
+END
+lowPassFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/baseflightplus/src/lowPassFilter.c
+END
+drv_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_system.c
+END
+chr6dmAHRS.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/171/trunk/baseflightplus/src/chr6dmAHRS.c
+END
+lowPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/baseflightplus/src/lowPassFilter.h
+END
+drv_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_system.h
+END
+MargAHRS.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/171/trunk/baseflightplus/src/MargAHRS.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/178/trunk/baseflightplus/src/config.c
+END
+chr6dmAHRS.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/171/trunk/baseflightplus/src/chr6dmAHRS.h
+END
+MargAHRS.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/171/trunk/baseflightplus/src/MargAHRS.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/171/trunk/baseflightplus/src/config.h
+END
+utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/171/trunk/baseflightplus/src/utilities.c
+END
+magCalibration.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/171/trunk/baseflightplus/src/magCalibration.c
+END
+gyroTempCalibration.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/171/trunk/baseflightplus/src/gyroTempCalibration.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/178/trunk/baseflightplus/src/serial.c
+END
+accelCalibration.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/171/trunk/baseflightplus/src/accelCalibration.c
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/171/trunk/baseflightplus/src/utilities.h
+END
+executiveAnalysis.xlsx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/171/trunk/baseflightplus/src/executiveAnalysis.xlsx
+END
+baseFlightPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/171/trunk/baseflightplus/src/baseFlightPlus.h
+END
+magCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/171/trunk/baseflightplus/src/magCalibration.h
+END
+gyroTempCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/171/trunk/baseflightplus/src/gyroTempCalibration.h
+END
+computeAxisCommands.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/177/trunk/baseflightplus/src/computeAxisCommands.c
+END
+adxl345.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/adxl345.c
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/175/trunk/baseflightplus/src/serial.h
+END
+accelCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/171/trunk/baseflightplus/src/accelCalibration.h
+END
+drv_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_uart.c
+END
+drv_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_i2c.c
+END
+computeAxisCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/171/trunk/baseflightplus/src/computeAxisCommands.h
+END
+adxl345.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/adxl345.h
+END
+drv_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_uart.h
+END
+drv_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_i2c.h
+END
+drv_pwmInput.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/176/trunk/baseflightplus/src/drv_pwmInput.c
+END
+hmc5883.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/hmc5883.c
+END
+drv_pwmOutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_pwmOutput.c
+END
+drv_pwmInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_pwmInput.h
+END
+hmc5883.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/hmc5883.h
+END
+drv_pwmOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/baseflightplus/src/drv_pwmOutput.h
+END
+MadgwickAHRS.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/171/trunk/baseflightplus/src/MadgwickAHRS.c
+END
+ahrsCalibration.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/baseflightplus/src/ahrsCalibration.c
+END
+chr6dmMatrix3x3.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/baseflightplus/src/chr6dmMatrix3x3.c
+END
+MadgwickAHRS.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/171/trunk/baseflightplus/src/MadgwickAHRS.h
+END
+mpu3050.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/mpu3050.c
+END
+ahrsCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/baseflightplus/src/ahrsCalibration.h
+END
+bmp085.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/171/trunk/baseflightplus/src/bmp085.c
+END
+chr6dmMatrix3x3.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/baseflightplus/src/chr6dmMatrix3x3.h
+END
+flightCommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/179/trunk/baseflightplus/src/flightCommand.c
+END
+pid.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/179/trunk/baseflightplus/src/pid.c
+END
+mpu3050.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/171/trunk/baseflightplus/src/mpu3050.h
+END
+bmp085.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/171/trunk/baseflightplus/src/bmp085.h
+END
+pid.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/179/trunk/baseflightplus/src/pid.h
+END
+flightCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/baseflightplus/src/flightCommand.h
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/176/trunk/baseflightplus/src/mixer.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/177/trunk/baseflightplus/src/main.c
+END
+mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/171/trunk/baseflightplus/src/mixer.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/171/trunk/baseflightplus/src/board.h
+END
